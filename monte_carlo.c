@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <math.h>
+#define random rand
+#define srandom srand
 
 float mc_pi(int);
 
